@@ -4,4 +4,4 @@ Meu nome é Igor, sou apaixonado por aprender por isso me considero um desenvolv
 
 Estou sempre em construção...
 
-![igorferreira's github stats](https://github-readme-stats.vercel.app/api?username=igorferreira&show_icons=true&title_color=fff&icon_color=FFCC00&text_color=9f9f9f&bg_color=151515)](https://github.com/igorferreira/github-readme-stats)
+![igorferreira's github stats](https://github-readme-stats.vercel.app/api?username=igorferreira&show_icons=true&title_color=fff&icon_color=FFCC00&text_color=9f9f9f&bg_color=151515)
