@@ -1,6 +1,6 @@
 <div align = "center">
   
-  <h1>Oi, Meu nome é Igor, sou apaixonado por aprender por isso me considero um desenvolvedor inquieto.</h1>
+  <h1>Oi, Meu nome é Igor </h1>
 
   <div>
     <a href="https://github.com/KayaraSilveira">
